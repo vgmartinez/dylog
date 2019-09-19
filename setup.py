@@ -9,7 +9,7 @@ long_description = open("README.rst").read()
 
 setup(
     name='dylog',
-    version='0.0.1',
+    version='0.0.2',
     description='Python centralized logging using DynamoDB',
     long_description=long_description,
     author='Victor M',
