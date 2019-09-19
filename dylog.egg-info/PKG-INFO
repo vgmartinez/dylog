@@ -1,6 +1,6 @@
 Metadata-Version: 1.2
 Name: dylog
-Version: 0.0.1
+Version: 0.0.2
 Summary: Python centralized logging using DynamoDB
 Home-page: https://github.com/vgmartinez/dylog
 Author: Victor M
