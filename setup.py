@@ -17,9 +17,9 @@ setup(
     maintainer='Victor M',
     maintainer_email="viktor.manuel.garcia@gmail.com",
     url='https://github.com/vgmartinez/dylog',
-    download_url = 'https://github.com/vgmartinez/dylog/tarball/0.0.1',
-    packages=['dynamolog'],
-    keywords=["dynamolog", "logging", "dynamo", "dynamodb"],
+    download_url = 'https://github.com/vgmartinez/dylog/archive/master.zip',
+    packages=['dylog'],
+    keywords=["dylog", "logging", "dynamo", "dynamodb"],
     install_requires=['boto3'],
     classifiers=[
         "Intended Audience :: Developers",
